@@ -16,7 +16,7 @@ public class ParImpar {
 
 		}
 		//System.out.println(i);
-		System.out.println("\nY ya está, colega");
+		System.out.println("\nY ya está");
 		
 	
 	}//final del main
